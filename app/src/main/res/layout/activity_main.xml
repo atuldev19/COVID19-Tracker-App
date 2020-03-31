@@ -19,16 +19,16 @@
             android:weightSum="1">
 
             <TextView
-                android:id="@+id/nameview"
+                android:id="@+id/title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.6"
+                android:layout_weight="0.5"
                 android:gravity="center"
                 android:minHeight="?actionBarSize"
                 android:padding="@dimen/appbar_padding"
                 android:text="@string/app_name"
                 android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
-                android:textSize="18sp" />
+                android:textSize="20sp" />
 
             <TextView
                 android:id="@+id/txt_help"
@@ -39,7 +39,7 @@
                 android:gravity="center|right"
                 android:minHeight="?actionBarSize"
                 android:padding="@dimen/appbar_padding"
-                android:text="Prevention and Precautions Measures" />
+                android:text="HowToSafe" />
         </LinearLayout>
 
         <com.google.android.material.tabs.TabLayout
