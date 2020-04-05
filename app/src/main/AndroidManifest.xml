@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mybasic.androidtut.covid19tracker">
+    package="com.androidtut.covid19tracker">
 
     <application
         android:allowBackup="true"

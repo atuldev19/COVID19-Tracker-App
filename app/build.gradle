@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "mybasic.androidtut.covid19tracker"
+        applicationId "com.androidtut.covid19tracker"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
